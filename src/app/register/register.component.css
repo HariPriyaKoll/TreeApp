@@ -1,0 +1,12 @@
+.text-center{
+    text-align: center;
+}
+.form-class{
+    padding: 15px;
+    background: #e7dfef;
+    border: 2px solid #e7dfef;
+    border-radius: 10px;
+}
+.margin-top30{
+    margin-top: 30px;
+}
