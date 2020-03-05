@@ -1,5 +1,5 @@
 # TreeApp
-This application has been built using Latest Angular-Cli,Node and Express.
+This application has been built using Latest Angular-Cli,Node and Expresss.
 STEPS to launch the application
   1. Clone the application or download the zip file.
   2. Go to the application folder.
